@@ -1,4 +1,4 @@
-![MasterHead](https://lh3.googleusercontent.com/u/1/drive-viewer/AITFw-x84QPoZ3F-x3_puUemX9ytoy_EPwuIjPagOU5TK5rmSXUhRNpxnV1JI2Jdx90gDT0dN-g5yDrIR9JOnCWYLvCyLVwsYg=w2940-h6354)
+![MasterHead](header.jpg)
 <h1 align="center">I am incredibly passionate about building unique and innovative products, love experimenting with new technologies</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
