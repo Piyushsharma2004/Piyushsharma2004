@@ -6,9 +6,11 @@
 
 - 📫 How to reach me **Piyushsharmanova@gmail.com**
 - 👯 When I'm not coding, find me on the court playing Movies and Book reading!😉
+- https://linktr.ee/piyushsharma2004
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://twitter.com/piyushs5321" target="blank"><img s align="center" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" alt="piyushs5321" height="40" width="40" /></a>
   &ensp;
 <a href="https://linkedin.com/in/piyushsharmanova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyushsharmanova" height="40" width="40" /></a>
