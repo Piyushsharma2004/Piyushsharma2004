@@ -80,12 +80,6 @@
 
 ---
 
-## 🎯 **Fun Facts About Me**
-🎵 I enjoy coding with **lo-fi beats** playing in the background.  
-🚀 I believe **"Technology should solve real-world problems."**  
-🎮 I'm an absolute **sucker for open-world RPG games!**  
-
----
 
 ## 📊 **Profile Visitor Count**
 <p align="center">
