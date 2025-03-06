@@ -37,12 +37,10 @@
 ---
 
 ## 🚀 **GitHub Stats & Activity**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushsharma2004&show_icons=true&theme=tokyonight" height="180px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushsharma2004&theme=tokyonight" height="180px">
-</p>
+
 
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=piyushsharma2004&show_icons=true&theme=tokyonight" height="180px">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyushsharma2004&theme=tokyonight" height="150">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyushsharma2004&theme=tokyonight" height="150">
 </p>
