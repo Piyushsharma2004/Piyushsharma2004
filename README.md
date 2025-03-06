@@ -1,4 +1,4 @@
-![MasterHead](header.jpg)
+![MasterHead](header.png)
 <h1 align="center">I am incredibly passionate about building unique and innovative products, love experimenting with new technologies</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
